@@ -24,7 +24,6 @@ public class Application {
 
 	SpartacusGameEngine gameEngine = new SpartacusGameEngine();
 	MapService spartacusMapService = new SpartacusMapService();
-	;
 	SaveService gameSaveService = new GameSaveService();
 	LoadService gameLoadService = new GameLoadService();
 	ViewService gladiatorViewService = new GladiatorViewService();
